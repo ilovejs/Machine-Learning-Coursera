@@ -1,0 +1,49 @@
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+computeCost	mlclass-ex1/computeCost.m	/^function J = computeCost(X, y, theta)$/;"	f
+computeCostMulti	mlclass-ex1/computeCostMulti.m	/^function J = computeCostMulti(X, y, theta)$/;"	f
+featureNormalize	mlclass-ex1/featureNormalize.m	/^function [X_norm, mu, sigma] = featureNormalize(X)$/;"	f
+gradientDescent	mlclass-ex1/gradientDescent.m	/^function [theta, J_history] = gradientDescent(X, y, theta, alpha, num_iters)$/;"	f
+gradientDescentMulti	mlclass-ex1/gradientDescentMulti.m	/^function [theta, J_history] = gradientDescentMulti(X, y, theta, alpha, num_iters)$/;"	f
+normalEqn	mlclass-ex1/normalEqn.m	/^function [theta] = normalEqn(X, y)$/;"	f
+plotData	mlclass-ex1/plotData.m	/^function plotData(x, y)$/;"	f
+base64encode	mlclass-ex1/submit.m	/^function y = base64encode(x, eol)$/;"	f
+basicPrompt	mlclass-ex1/submit.m	/^function [login password] = basicPrompt()$/;"	f
+bitadd	mlclass-ex1/submit.m	/^function ret = bitadd(iA, iB)$/;"	f
+bitrotate	mlclass-ex1/submit.m	/^function ret = bitrotate(iA, places)$/;"	f
+challengeResponse	mlclass-ex1/submit.m	/^function [str] = challengeResponse(email, passwd, challenge)$/;"	f
+challenge_url	mlclass-ex1/submit.m	/^function url = challenge_url()$/;"	f
+getChallenge	mlclass-ex1/submit.m	/^function [email,ch,signature,auxstring] = getChallenge(email, part)$/;"	f
+homework_id	mlclass-ex1/submit.m	/^function id = homework_id() $/;"	f
+isValidPartId	mlclass-ex1/submit.m	/^function ret = isValidPartId(partId)$/;"	f
+loginPrompt	mlclass-ex1/submit.m	/^function [login password] = loginPrompt()$/;"	f
+output	mlclass-ex1/submit.m	/^function out = output(partId, auxstring)$/;"	f
+promptPart	mlclass-ex1/submit.m	/^function partId = promptPart()$/;"	f
+quickLogin	mlclass-ex1/submit.m	/^function [login password] = quickLogin(login,password)$/;"	f
+sha1	mlclass-ex1/submit.m	/^function hash = sha1(str)$/;"	f
+site_url	mlclass-ex1/submit.m	/^function url = site_url()$/;"	f
+source	mlclass-ex1/submit.m	/^function src = source(partId)$/;"	f
+sources	mlclass-ex1/submit.m	/^function srcs = sources()$/;"	f
+submit	mlclass-ex1/submit.m	/^function submit(partId)$/;"	f
+submitSolution	mlclass-ex1/submit.m	/^function [result, str] = submitSolution(email, ch_resp, part, output, ...$/;"	f
+submit_url	mlclass-ex1/submit.m	/^function url = submit_url()$/;"	f
+validParts	mlclass-ex1/submit.m	/^function [partNames] = validParts()$/;"	f
+base64encode	mlclass-ex1/submitWeb.m	/^function y = base64encode(x, eol)$/;"	f
+basicPrompt	mlclass-ex1/submitWeb.m	/^function [login] = basicPrompt()$/;"	f
+homework_id	mlclass-ex1/submitWeb.m	/^function id = homework_id() $/;"	f
+isValidPartId	mlclass-ex1/submitWeb.m	/^function ret = isValidPartId(partId)$/;"	f
+loginPrompt	mlclass-ex1/submitWeb.m	/^function [login] = loginPrompt()$/;"	f
+output	mlclass-ex1/submitWeb.m	/^function out = output(partId)$/;"	f
+p_s	mlclass-ex1/submitWeb.m	/^function s = p_s(str)$/;"	f
+p_s64	mlclass-ex1/submitWeb.m	/^function s = p_s64(str)$/;"	f
+promptPart	mlclass-ex1/submitWeb.m	/^function partId = promptPart()$/;"	f
+source	mlclass-ex1/submitWeb.m	/^function src = source(partId)$/;"	f
+sources	mlclass-ex1/submitWeb.m	/^function srcs = sources()$/;"	f
+submitSolution	mlclass-ex1/submitWeb.m	/^function [result, str] = submitSolution(email, part, output, source)$/;"	f
+submitWeb	mlclass-ex1/submitWeb.m	/^function submitWeb(partId)$/;"	f
+validParts	mlclass-ex1/submitWeb.m	/^function [partNames] = validParts()$/;"	f
+warmUpExercise	mlclass-ex1/warmUpExercise.m	/^function A = warmUpExercise()$/;"	f
