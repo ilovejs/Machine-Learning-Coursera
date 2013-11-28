@@ -1,6 +1,22 @@
 #   Machine Learning
-### Week2
-####    Programming Exercise
+### Week4
+*   overview
+    *   review before proceed
+    *   learn from examples / applications
+        *   neural network, multiple features
+*   review
+    *   interesting bio-mimic
+        *   example of using other sensory and learn 
+        <img src="screenshots/8 - 2 - Neurons and the Brain (8 min).mp4-2013-11-19-08h18m40s147.png">
+    *   neural network
+        *   activation, weights
+        <img src="screenshots/8 - 3 - Model Representation I (12 min).mp4-2013-11-19-08h32m30s0.png">
+        <img src="screenshots/8 - 4 - Model Representation II (12 min).mp4-2013-11-19-08h37m37s247.png">
+*   review question
+    *   multi-class classification output (The outputs of a neural network are not probabilities, so their sum need not be 1.)
+*   programming exercise
+    *   neural network
+        *   activation don't forget sigmoid function
 ### Week3 Logistic Regression & Regularization
 ####    Logistic Regression
 - ->  problem of Linear Regression for classification
@@ -26,6 +42,8 @@
 ####    Programming Exercise
 *   plotting
     *   find index, plot, mark legend in the same order as plot
+### Week2
+####    Programming Exercise
 
   
 

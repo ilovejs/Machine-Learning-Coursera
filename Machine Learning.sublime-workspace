@@ -1,0 +1,1069 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tmp",
+				"tempJ"
+			],
+			[
+				"The",
+				"Theta1"
+			],
+			[
+				"z2",
+				"z2_"
+			],
+			[
+				"fun",
+				"function1"
+			],
+			[
+				"def",
+				"defs	Method"
+			],
+			[
+				"Php",
+				"PhpUploader_Log"
+			],
+			[
+				"tim",
+				"time_str"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"top",
+				"topic_flag"
+			],
+			[
+				"set",
+				"sentence"
+			],
+			[
+				"aside",
+				"aside_entry"
+			],
+			[
+				"wrapp",
+				"wrapper_entry"
+			],
+			[
+				"news",
+				"news_list"
+			],
+			[
+				"new",
+				"news_list"
+			],
+			[
+				"host",
+				"hotspot"
+			],
+			[
+				"en",
+				"entry"
+			],
+			[
+				"ti",
+				"titleOrBody"
+			],
+			[
+				"ge",
+				"getlocations"
+			],
+			[
+				"link",
+				"link_list"
+			],
+			[
+				"star",
+				"start_urls"
+			],
+			[
+				"date",
+				"date_str"
+			],
+			[
+				"ho",
+				"hotpost"
+			],
+			[
+				"src",
+				"src_time"
+			],
+			[
+				"pic",
+				"pic_src"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"ent",
+				"entries"
+			],
+			[
+				"re",
+				"re_encode_html"
+			],
+			[
+				"mog",
+				"mongoConnect"
+			],
+			[
+				"mong",
+				"mongoConnect"
+			],
+			[
+				"addre",
+				"address"
+			],
+			[
+				"get",
+				"get_num"
+			],
+			[
+				"loca",
+				"locations"
+			],
+			[
+				"fe",
+				"fetchNews"
+			],
+			[
+				"gb",
+				"gb2312"
+			],
+			[
+				"fet",
+				"fetchurl"
+			],
+			[
+				"post",
+				"posts"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"ses",
+				"session_start"
+			],
+			[
+				"script",
+				"SCRIPT	Tag"
+			],
+			[
+				"gushi",
+				"gushiwenlist"
+			],
+			[
+				"poe",
+				"poetList"
+			],
+			[
+				"cont",
+				"contents"
+			],
+			[
+				"revoke",
+				"revokeflag"
+			],
+			[
+				"rev",
+				"revoke_list"
+			],
+			[
+				"rele",
+				"releasing"
+			],
+			[
+				"rela",
+				"retryflag"
+			],
+			[
+				"retr",
+				"retryflag"
+			],
+			[
+				"fre",
+				"freeblocklist"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mlclass-ex4/ex4.m",
+			"settings":
+			{
+				"buffer_size": 8073,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mlclass-ex4/nnCostFunction.m",
+			"settings":
+			{
+				"buffer_size": 4426,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mlclass-ex3/predict.m",
+			"settings":
+			{
+				"buffer_size": 1285,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mlclass-ex3/lrCostFunction.m",
+			"settings":
+			{
+				"buffer_size": 1937,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp",
+				"Snippet: Cases"
+			],
+			[
+				"latex",
+				"LaTeXTools: Toggle focus (PDF/editor)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Code Folding: Unfold All"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"task",
+				"Tasks: Archive"
+			],
+			[
+				"utf",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"file",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"toggle",
+				"View: Toggle Side Bar"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"md",
+				"Set Syntax: Markdown"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inre",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"bro",
+				"View In Browser"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"View In Browser"
+			],
+			[
+				"preview",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"previe",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"encod",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"ind	",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"gis",
+				"Gist: Update File"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"gisp",
+				"Gist: Create Private Gist"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pre",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 647.0
+	},
+	"console":
+	{
+		"height": 129.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/EOS_DIGITAL/space/log.md",
+		"/media/EOS_DIGITAL/Machine Learning/mlclass-ex3/oneVsAll.m",
+		"/tmp/Chrome/XY-01.csv",
+		"/tmp/Chrome/ionic-angular-cordova-seed/README.md",
+		"/home/larryxiao/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/larryxiao/Dropbox/mobility/markdown/security.md",
+		"/home/larryxiao/Dropbox/mobility/markdown/CV.md",
+		"/media/2F70-C2E6/分区表.ptf",
+		"/tmp/Cache/Cache/data_3",
+		"/tmp/Chrome/plyplus/README.md",
+		"/var/www/achieve/README.md",
+		"/tmp/Chrome/lex/lexhello.lex",
+		"/tmp/Chrome/syslog/log.md",
+		"/home/larryxiao/Dropbox/code/summer/xyzt/backend/searchInterface.py",
+		"/home/larryxiao/Dropbox/mobility/markdown/PRIORITY.TODO",
+		"/home/larryxiao/Dropbox/mobility/markdown/readitlater.md",
+		"/home/larryxiao/Dropbox/mobility/markdown/creative.md",
+		"/tmp/Chrome/photowall/pic/convert.sh",
+		"/home/larryxiao/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/larryxiao/Dropbox/mobility/markdown/journal.md",
+		"/tmp/20131011133951265.rar",
+		"/tmp/Chrome/untitled.tex",
+		"/home/larryxiao/.config/sublime-text-2/Packages/LaTeXTools/README.markdown",
+		"/home/larryxiao/Dropbox/mobility/markdown/ideas.md",
+		"/home/larryxiao/.config/sublime-text-2/Packages/View In Browser/View In Browser.sublime-settings",
+		"/home/larryxiao/.config/sublime-text-2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/home/larryxiao/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/tmp/Chrome/download_agent",
+		"/home/larryxiao/.local/share/vlc/lua/extensions/vlsub.lua.dump",
+		"/home/larryxiao/.local/share/vlc/lua/extensions/vlsub.lua",
+		"/tmp/Chrome/pybaidupan.py",
+		"/home/larryxiao/Dropbox/mobility/markdown/Operating Systems.md",
+		"/home/larryxiao/Dropbox/code/utilities/chrometab/convertToMD.py",
+		"/home/larryxiao/Dropbox/mobility/markdown/money.md",
+		"/home/larryxiao/Desktop/taxi/log.md",
+		"/home/larryxiao/Dropbox/code/utilities/quote.py",
+		"/tmp/Chrome/view-source www.google.com logos particle.html",
+		"/home/larryxiao/.config/sublime-text-2/Packages/Javascript Beautify/Default (Linux).sublime-keymap",
+		"/home/larryxiao/.config/sublime-text-2/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/home/larryxiao/Dropbox/mobility/markdown/HPC - High Performance Computing.md",
+		"/home/larryxiao/Desktop/OpenGL.log",
+		"/tmp/Chrome/code/test",
+		"/tmp/Chrome/code/test.c",
+		"/tmp/Chrome/code/opgl.py",
+		"/home/larryxiao/Dropbox/mobility/markdown/reading.md",
+		"/home/larryxiao/Dropbox/mobility/markdown/programme.md",
+		"/home/larryxiao/Dropbox/mobility/markdown/entertainment.todo",
+		"/home/larryxiao/Dropbox/mobility/markdown/entertainment.md",
+		"/home/larryxiao/VM/os-students-clean/lab/jos-2013-fall/kern/pmap.c",
+		"/tmp/Chrome/GPSSample/GPS数据格式.txt",
+		"/home/larryxiao/Dropbox/mobility/markdown/Algorithm.md",
+		"/home/larryxiao/Dropbox/mobility/markdown/hackathon summary.md",
+		"/home/larryxiao/.config/sublime-text-2/Packages/PlainTasks/tasks.hidden-tmTheme",
+		"/home/larryxiao/.config/sublime-text-2/Packages/PlainTasks/PlainTasks (Linux).sublime-settings",
+		"/tmp/Chrome/otool_crypt.txt",
+		"/tmp/Chrome/gdb.txt",
+		"/tmp/Chrome/info sharedlibrary.txt",
+		"/tmp/Chrome/class-dump.txt",
+		"/home/larryxiao/.config/sublime-text-2/Packages/PlainTasks/messages/game.md",
+		"/tmp/Chrome/1013.txt",
+		"/tmp/Chrome/dumps.tx",
+		"/home/larryxiao/.config/sublime-text-2/Packages/PlainTasks/messages/Tutorial.todo",
+		"/home/larryxiao/Dropbox/code/utilities/chrometab/onetab.list",
+		"/home/larryxiao/Dropbox/mobility/markdown/todos.TODO",
+		"/home/larryxiao/Dropbox/mobility/markdown/todo.md",
+		"/home/larryxiao/Dropbox/mobility/markdown/finance.md",
+		"/home/larryxiao/Dropbox/mobility/markdown/account.md",
+		"/home/larryxiao/Desktop/Link to VM/os-students-clean/lab/jos-2013-fall/doc/lab1.html",
+		"/tmp/Chrome/Campapp/ChangeLog",
+		"/home/larryxiao/Dropbox/mobility/markdown/Software Testing.md",
+		"/home/larryxiao/Desktop/battlecamp.http.log",
+		"/home/larryxiao/Dropbox/mobility/markdown/books.md.dump",
+		"/home/larryxiao/Desktop/ideas.md",
+		"/home/larryxiao/Dropbox/mobility/markdown/books.md",
+		"/var/www/ctld/project.sublime-project",
+		"/home/larryxiao/Dropbox/project/JXFZZX/CTLD/log.md",
+		"/var/www/ctld/python_util/officexls.py",
+		"/var/www/ctld/ctld_ajax.html",
+		"/var/www/ctld/test.phpexec(\"python python_util/chart.py 'function3(2010,2014)'\",$output);",
+		"/var/www/ctld/phpuploader/include_phpuploader.php",
+		"/var/www/achieve/php_frameworks/addAchievement.php",
+		"/var/www/achieve/php_frameworks/index.php",
+		"/var/www/achieve/php_frameworks/addAchievement_form.php",
+		"/var/www/achieve/php_frameworks/addComments_form.php",
+		"/var/www/ctld/python_util/hello.py",
+		"/home/larryxiao/Dropbox/project/JXFZZX/CTLD/CTLD.py",
+		"/home/larryxiao/Dropbox/project/JXFZZX/CTLD/chart.py",
+		"/var/www/ctld/js/jquery.js",
+		"/var/www/ctld/phpuploader/log.txt",
+		"/var/www/ctld/phpuploader/ajaxuploaderhandler.php",
+		"/var/www/ctld/phpuploader/ajaxuploaderresource.php",
+		"/var/www/ctld/phpuploader/resources/uploader.js",
+		"/var/www/ctld/select-multiple-files-upload.php",
+		"/tmp/select-multiple-files-upload.php",
+		"/home/larryxiao/Dropbox/mobility/markdown/cost.md",
+		"/etc/apache2/apache2.conf",
+		"/etc/apache2/ports.conf",
+		"/var/www/ctld/bootswatch-ref.html",
+		"/var/www/ctld/index.php",
+		"/var/www/ctld/index.html",
+		"/var/www/achieve/php_frameworks/header.php",
+		"/var/www/achieve/php_frameworks/sns.php",
+		"/etc/apache2/sites-enabled/000-default",
+		"/etc/apache2/httpd.conf",
+		"/home/larryxiao/Dropbox/project/JXFZZX/CTLD/GUI.py",
+		"/home/larryxiao/Dropbox/project/JXFZZX/CTLD/test/kivy_helloworld.py",
+		"/home/larryxiao/Dropbox/project/JXFZZX/CTLD/test/wxPython.py",
+		"/home/larryxiao/Dropbox/project/JXFZZX/CTLD/test/kivy.py",
+		"/home/larryxiao/Dropbox/project/JXFZZX/CTLD/test/wxPython2.py",
+		"/home/larryxiao/Dropbox/mobility/goagent-goagent-c0f38d1/local/proxy.ini",
+		"/home/larryxiao/Dropbox/project/教学发展中心/CTLD/log.md",
+		"/home/larryxiao/Desktop/creative.md",
+		"/home/larryxiao/Desktop/temp.md",
+		"/home/larryxiao/Dropbox/project/教学发展中心/CTLD/CTLD.csv",
+		"/home/larryxiao/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/larryxiao/Dropbox/code/newsmap/collect/feedparser_example.py",
+		"/tmp/Chrome/demo/map.html",
+		"/tmp/Chrome/3.html",
+		"/home/larryxiao/.config/sublime-text-2/Packages/User/View In Browser.sublime-settings",
+		"/home/larryxiao/Dropbox/code/summer/xyzt/backend/xyzt/xyzt/pipelines.py",
+		"/home/larryxiao/Dropbox/code/summer/xyzt/backend/xyzt/xyzt/spiders/spider.py",
+		"/tmp/Chrome/NewsSpectator/wikipedia.log",
+		"/tmp/Chrome/wiki.py",
+		"/home/larryxiao/Dropbox/code/summer/xyzt/backend/xyzt/scrapy.cfg",
+		"/home/larryxiao/Dropbox/code/summer/xyzt/backend/xyzt/xyzt/items.py",
+		"/tmp/Chrome/NewsSpectator/Server1/WebContent/js/NewsLoader.js",
+		"/tmp/Chrome/NewsSpectator/Server1/WebContent/js/NewsMap.js",
+		"/tmp/Chrome/NewsSpectator/Server1/WebContent/js/init.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"write",
+			"week",
+			"ctrl+t",
+			"512",
+			"img",
+			"James",
+			"&#10048",
+			"http",
+			"sublime",
+			"lab",
+			"h3",
+			"	",
+			"by",
+			"book",
+			"remove",
+			"“",
+			"font",
+			"0x005259",
+			"0x001d9b",
+			"0x001d9",
+			"name",
+			"management",
+			"Map",
+			"troop",
+			"showinventory",
+			"inventory",
+			"0x00368",
+			"0x003682b8",
+			"0x3682b8",
+			"inventory",
+			"IMP",
+			"mach_msg_trap",
+			"MSGAmeLayer",
+			"damage",
+			"MS",
+			"MSAttackModifier",
+			"_ABAddressBookCopyArrayOfAllPeople",
+			"MSAttackModifier",
+			"crash",
+			"combo",
+			"attack",
+			"battle",
+			"calculate",
+			"Battle",
+			"attle",
+			"event",
+			"battle",
+			"camp",
+			"UIApplicationMain",
+			"request",
+			"query",
+			"	[/",
+			" ",
+			"+	",
+			"store",
+			"CTLD.db",
+			"\"",
+			"function",
+			"#	",
+			"400",
+			"1",
+			"\"",
+			"src",
+			"xml\" ",
+			"\"",
+			"print",
+			"echo",
+			"submit",
+			"button",
+			"h4",
+			"h2",
+			"h3",
+			"<h3>",
+			"<h2>",
+			"dict",
+			"print",
+			"h1",
+			"->FileName",
+			"copyto",
+			"move_uploaded_file",
+			"PhpUploader_Move",
+			"move from",
+			"rename",
+			"PhpUploader_Move",
+			"UpdateFileName",
+			"UpdateFileName FINISH",
+			"PhpUploader_Move",
+			"Move From",
+			"CopyTo",
+			"PhpUploader_GetQSD",
+			"PhpUploader_Log",
+			"$file",
+			"file",
+			"$file",
+			"uploadok",
+			"name",
+			"_preprocessed",
+			"_CheckProcessed",
+			"IsValidationRequest",
+			"GetValidatingFile",
+			"p",
+			"render",
+			"_filevalidating",
+			"GetValidatingFile",
+			"_MoveHttpFile",
+			"PhpUploader_GetFileName",
+			"_MoveHttpFile",
+			"PhpUploader_Move",
+			"From",
+			"PhpUploader_GetFileName",
+			"MoveHttpFile",
+			"MoveHttpFile Array :",
+			"_MoveHttpFile Array :",
+			"start addon upload",
+			"rename",
+			"render",
+			"_ValidateFile",
+			"$filename",
+			"filename",
+			"filename	",
+			"filename",
+			"iconv",
+			"PhpUploader(",
+			"PhpUploader",
+			"PhpUploader_FSEncoding",
+			"not exist",
+			"render",
+			"class"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    ",
+			"\"",
+			"",
+			"'",
+			"###	",
+			"p",
+			"h3",
+			"h4",
+			"<h3 class=\"text-info\">",
+			"<h2 class=\"text-success\">",
+			"<a href=\"#\">签到</a>/<a href=\"#\">修改</a>",
+			"tbody",
+			"\\n",
+			"",
+			"\\n",
+			"",
+			"	",
+			"",
+			"	",
+			"page.xpath",
+			"	",
+			"    ",
+			"",
+			"	",
+			"",
+			"	",
+			"",
+			"    ",
+			"....",
+			"	",
+			"<li>",
+			"",
+			")\";$result=mysql_query($sql);",
+			"$sql=\"SELECT ",
+			"",
+			"o",
+			"','SJTU','",
+			"Select Achievement_Add('0a4ac01f-d172-11e2-91b3-f0def16da91d','",
+			"Select Achievement_Add('0a4ac01f-d172-11e2-91b3-f0def16da91d',",
+			"\\n",
+			"",
+			"||",
+			"",
+			"||",
+			" ",
+			"||",
+			"",
+			"中文名",
+			"",
+			"\"",
+			"printf",
+			"	"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mlclass-ex4/ex4.m",
+					"settings":
+					{
+						"buffer_size": 8073,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3731,
+								3731
+							]
+						],
+						"settings":
+						{
+							"c_time": "cdatetime\ndatetime\np0\n(S'\\x07\\xdd\\x0b\\x19\\n5\\x08\\x00\\x00\\x00'\np1\ntp2\nRp3\n.",
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"function_name_status_row": 113,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Matlab/Matlab.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1707.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "mlclass-ex4/nnCostFunction.m",
+					"settings":
+					{
+						"buffer_size": 4426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time": "cdatetime\ndatetime\np0\n(S'\\x07\\xdd\\x0b\\x19\\n5\\t\\x00\\x00\\x00'\np1\ntp2\nRp3\n.",
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"function_name_status_row": 0,
+							"is_preview": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Matlab/Matlab.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 918.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "mlclass-ex3/predict.m",
+					"settings":
+					{
+						"buffer_size": 1285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time": "cdatetime\ndatetime\np0\n(S'\\x07\\xdd\\x0b\\x19\\x07.\\x03\\x00\\x00\\x00'\np1\ntp2\nRp3\n.",
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"function_name_status_row": 0,
+							"is_preview": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Matlab/Matlab.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 355.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "mlclass-ex3/lrCostFunction.m",
+					"settings":
+					{
+						"buffer_size": 1937,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time": "cdatetime\ndatetime\np0\n(S'\\x07\\xdd\\x0b\\x19\\x07.\\x03\\x00\\x00\\x00'\np1\ntp2\nRp3\n.",
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"function_name_status_row": 0,
+							"is_preview": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Matlab/Matlab.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 257.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ex4",
+				"ex4.m"
+			],
+			[
+				"hpc",
+				"HPC - High Performance Computing.md"
+			],
+			[
+				"se",
+				"security.md"
+			],
+			[
+				"ide",
+				"ideas.md"
+			],
+			[
+				"cv",
+				"CV.md"
+			],
+			[
+				"url",
+				"journal.md"
+			],
+			[
+				"os",
+				"Operating Systems.md"
+			],
+			[
+				"idea",
+				"ideas.md"
+			],
+			[
+				"jo",
+				"journal.md"
+			],
+			[
+				"rea",
+				"reading.md"
+			],
+			[
+				"id",
+				"ideas.md"
+			],
+			[
+				"tab",
+				"tabs.md"
+			],
+			[
+				"ta",
+				"tabs.md"
+			],
+			[
+				"res",
+				"resume.md"
+			],
+			[
+				"o",
+				"OPENCOURSEWARE.md"
+			],
+			[
+				"i",
+				"ideas.md"
+			],
+			[
+				"tabs",
+				"tabs.md"
+			],
+			[
+				"todo",
+				"entertainment.todo"
+			],
+			[
+				"re",
+				"/home/larryxiao/Documents/Dev/summer/zhangyang/Code/backend/newscrawler/crawler_PQ (more content).py"
+			],
+			[
+				"in",
+				"/home/larryxiao/Documents/Dev/crawl & parser/chinese poet/visualize_map/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/ctld/project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true
+}
