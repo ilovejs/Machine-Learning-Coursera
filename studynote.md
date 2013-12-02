@@ -1,5 +1,38 @@
 #   Machine Learning
-### Week4
+### Week5   Neural Networks: Learning
+* review
+    *   Neural Networks <strong>intuition</strong>
+* submit log
+<pre>
+    highlight
+        debug process of backpropagation - debug.txt
+        % ~~ debug ~~
+        % embarrasing... 
+            % the matrix order 25*10 or 10*25 (and now it's correct) D1 / D1'
+            % because when it's unrolled, you can't tell
+        % the bias entry... why not 1?
+        % the m is divided into all terms
+        % the origin of everthing
+        % file:///media/EOS_DIGITAL/Machine%20Learning/screenshots/9%20-%202%20-%20Backpropagation%20Algorithm%20(12%20min).mp4-2013-11-25-09h02m54s157.png
+    Feedforward
+        decode y into original output of labels
+        regularization can be added out of calculation (just add the term)
+    backpropagation
+        a bit tricky to think of the dimension of one matrix
+            input, hidden, output layer dimension
+            number of samples
+        understand every step
+            (map to original math equations one by one)
+            calculation of delta (backpropagation)
+                error reverely reflected on previous layer's weight
+                gradient of each layer
+            calculation of DELTA
+                summation of the error with input
+    tips & tricks
+        checkNNGradients
+            use a smaller matrix to test
+</pre><img src="file:///media/EOS_DIGITAL/Machine%20Learning/screenshots/9%20-%202%20-%20Backpropagation%20Algorithm%20(12%20min).mp4-2013-11-25-09h02m54s157.png">
+### Week4    Neural Networks: Representation
 *   overview
     *   review before proceed
     *   learn from examples / applications
@@ -42,7 +75,7 @@
 ####    Programming Exercise
 *   plotting
     *   find index, plot, mark legend in the same order as plot
-### Week2
+### Week2   Linear Regression with Multiple Variables
 ####    Programming Exercise
 
   
