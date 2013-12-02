@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"de",
+				"delta_3"
+			],
+			[
+				"sig",
+				"sigmoid"
+			],
+			[
+				"for",
+				"for"
+			],
+			[
+				"Th",
+				"Theta2"
+			],
+			[
 				"tmp",
 				"tempJ"
 			],
@@ -211,7 +227,15 @@
 			"file": "mlclass-ex4/nnCostFunction.m",
 			"settings":
 			{
-				"buffer_size": 4426,
+				"buffer_size": 5593,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mlclass-ex4/randInitializeWeights.m",
+			"settings":
+			{
+				"buffer_size": 974,
 				"line_ending": "Unix"
 			}
 		},
@@ -235,9 +259,13 @@
 	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 	"command_palette":
 	{
-		"height": 54.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"stat",
+				"Git: Status"
+			],
 			[
 				"instal",
 				"Package Control: Install Package"
@@ -436,6 +464,8 @@
 	},
 	"file_history":
 	[
+		"/media/EOS_DIGITAL/Machine Learning/mlclass-ex4/sigmoidGradient.m",
+		"/media/EOS_DIGITAL/Machine Learning/mlclass-ex2/sigmoid.m",
 		"/media/EOS_DIGITAL/space/log.md",
 		"/media/EOS_DIGITAL/Machine Learning/mlclass-ex3/oneVsAll.m",
 		"/tmp/Chrome/XY-01.csv",
@@ -561,9 +591,7 @@
 		"/tmp/Chrome/wiki.py",
 		"/home/larryxiao/Dropbox/code/summer/xyzt/backend/xyzt/scrapy.cfg",
 		"/home/larryxiao/Dropbox/code/summer/xyzt/backend/xyzt/xyzt/items.py",
-		"/tmp/Chrome/NewsSpectator/Server1/WebContent/js/NewsLoader.js",
-		"/tmp/Chrome/NewsSpectator/Server1/WebContent/js/NewsMap.js",
-		"/tmp/Chrome/NewsSpectator/Server1/WebContent/js/init.js"
+		"/tmp/Chrome/NewsSpectator/Server1/WebContent/js/NewsLoader.js"
 	],
 	"find":
 	{
@@ -779,7 +807,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -794,8 +822,8 @@
 						"selection":
 						[
 							[
-								3731,
-								3731
+								513,
+								513
 							]
 						],
 						"settings":
@@ -804,14 +832,15 @@
 							"encoding_helper_confidence": 1.0,
 							"encoding_helper_encoding": "UTF-8",
 							"encoding_helper_encoding_sublime": "UTF-8",
-							"function_name_status_row": 113,
+							"function_name_status_row": 0,
+							"is_preview": true,
 							"origin_encoding": "ASCII",
 							"syntax": "Packages/Matlab/Matlab.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1707.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -821,15 +850,49 @@
 					"file": "mlclass-ex4/nnCostFunction.m",
 					"settings":
 					{
-						"buffer_size": 4426,
+						"buffer_size": 5593,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								3850,
+								3850
+							]
+						],
+						"settings":
+						{
+							"c_time": "cdatetime\ndatetime\np0\n(S'\\x07\\xdd\\x0b\\x19\\n5\\t\\x00\\x00\\x00'\np1\ntp2\nRp3\n.",
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"function_name_status_row": 94,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Matlab/Matlab.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1229.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "mlclass-ex4/randInitializeWeights.m",
+					"settings":
+					{
+						"buffer_size": 974,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								892,
+								892
 							]
 						],
 						"settings":
@@ -841,18 +904,16 @@
 							"function_name_status_row": 0,
 							"is_preview": true,
 							"origin_encoding": "ASCII",
-							"syntax": "Packages/Matlab/Matlab.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Matlab/Matlab.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 918.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "mlclass-ex3/predict.m",
 					"settings":
 					{
@@ -879,13 +940,13 @@
 							"syntax": "Packages/Matlab/Matlab.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 355.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "mlclass-ex3/lrCostFunction.m",
 					"settings":
 					{
@@ -955,6 +1016,10 @@
 	{
 		"height": 257.0
 	},
+	"output.git-commit":
+	{
+		"height": 112.0
+	},
 	"replace":
 	{
 		"height": 64.0
@@ -965,6 +1030,18 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"sigr",
+				"mlclass-ex4/sigmoidGradient.m"
+			],
+			[
+				"ini",
+				"mlclass-ex4/randInitializeWeights.m"
+			],
+			[
+				"sig",
+				"mlclass-ex2/sigmoid.m"
+			],
 			[
 				"ex4",
 				"ex4.m"

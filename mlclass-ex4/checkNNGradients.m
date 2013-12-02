@@ -37,6 +37,29 @@ numgrad = computeNumericalGradient(costFunc, nn_params);
 % Visually examine the two gradient computations.  The two columns
 % you get should be very similar. 
 disp([numgrad grad]);
+
+% help to check /debug
+% size(numgrad)
+% size(grad)
+% numgrad_Theta1 = reshape(numgrad(1:hidden_layer_size * (input_layer_size + 1)), ...
+%                  hidden_layer_size, (input_layer_size + 1));
+
+% numgrad_Theta2 = reshape(numgrad((1 + (hidden_layer_size * (input_layer_size + 1))):end), ...
+%                  num_labels, (hidden_layer_size + 1));
+
+% grad_Theta1 = reshape(grad(1:hidden_layer_size * (input_layer_size + 1)), ...
+%                  hidden_layer_size, (input_layer_size + 1));
+
+% grad_Theta2 = reshape(grad((1 + (hidden_layer_size * (input_layer_size + 1))):end), ...
+%                  num_labels, (hidden_layer_size + 1));
+% disp([numgrad_Theta1 grad_Theta1]);
+% disp([numgrad_Theta2 grad_Theta2]);
+% numgrad_Theta1
+% grad_Theta1
+% numgrad_Theta2
+% grad_Theta2
+% 
+
 fprintf(['The above two columns you get should be very similar.\n' ...
          '(Left-Your Numerical Gradient, Right-Analytical Gradient)\n\n']);
 
