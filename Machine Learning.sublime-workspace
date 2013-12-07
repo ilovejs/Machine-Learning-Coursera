@@ -4,8 +4,20 @@
 		"selected_items":
 		[
 			[
+				"t1",
+				"temp_theta1"
+			],
+			[
 				"de",
-				"delta_3"
+				"delta_2"
+			],
+			[
+				"numgrad_",
+				"numgrad_Theta2"
+			],
+			[
+				"T",
+				"Theta1_grad"
 			],
 			[
 				"sig",
@@ -219,7 +231,7 @@
 			"file": "mlclass-ex4/ex4.m",
 			"settings":
 			{
-				"buffer_size": 8073,
+				"buffer_size": 8075,
 				"line_ending": "Unix"
 			}
 		},
@@ -227,41 +239,61 @@
 			"file": "mlclass-ex4/nnCostFunction.m",
 			"settings":
 			{
-				"buffer_size": 5593,
+				"buffer_size": 7440,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "mlclass-ex4/randInitializeWeights.m",
+			"file": "studynote.md",
 			"settings":
 			{
-				"buffer_size": 974,
+				"buffer_size": 3482,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "mlclass-ex3/predict.m",
+			"contents": "Local:    master /media/EOS_DIGITAL/Machine Learning\nHead:     f3d97cb update study note for week 5\n\n\nUntracked files:\n	.tags\n	.tags_sorted_by_file\n	screenshots/\n	videos/\n\n\n# Movement:\n#    r = refresh status\n#    1-5 = jump to section\n#    n = next item, N = next section\n#    p = previous item, P = previous section\n#\n# Staging:\n#    s = stage file/section, S = stage all unstaged files\n#    ctrl+shift+s = stage all unstaged and untracked files\n#    u = unstage file/section, U = unstage all files\n#    backspace = discard file/section, shift+backspace = discard everything\n#\n# Commit:\n#    c = commit, C = commit -a (add unstaged)\n#    ctrl+shift+c = commit --amend (amend previous commit)\n#\n# Other:\n#    i = ignore file, I = ignore pattern\n#    enter = open file\n#    d = view diff\n#\n# Stashes:\n#    a = apply stash, A = pop stash\n#    z = create stash from worktree",
 			"settings":
 			{
-				"buffer_size": 1285,
+				"buffer_size": 872,
+				"line_ending": "Unix",
+				"name": "*git-status*: Machine Learning",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "mlclass-ex4/checkNNGradients.m",
+			"settings":
+			{
+				"buffer_size": 2740,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "mlclass-ex3/lrCostFunction.m",
+			"file": "mlclass-ex4/debug.txt",
 			"settings":
 			{
-				"buffer_size": 1937,
-				"line_ending": "Unix"
+				"buffer_size": 4030,
+				"line_ending": "Unix",
+				"name": "restore the matrix, must be something wrong"
 			}
 		}
 	],
 	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 306.0,
 		"selected_items":
 		[
+			[
+				"log",
+				"Git: Log"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
 			[
 				"stat",
 				"Git: Status"
@@ -464,6 +496,9 @@
 	},
 	"file_history":
 	[
+		"/media/EOS_DIGITAL/Machine Learning/mlclass-ex4/randInitializeWeights.m",
+		"/media/EOS_DIGITAL/Machine Learning/mlclass-ex3/lrCostFunction.m",
+		"/media/EOS_DIGITAL/Machine Learning/mlclass-ex3/predict.m",
 		"/media/EOS_DIGITAL/Machine Learning/mlclass-ex4/sigmoidGradient.m",
 		"/media/EOS_DIGITAL/Machine Learning/mlclass-ex2/sigmoid.m",
 		"/media/EOS_DIGITAL/space/log.md",
@@ -588,10 +623,7 @@
 		"/home/larryxiao/Dropbox/code/summer/xyzt/backend/xyzt/xyzt/pipelines.py",
 		"/home/larryxiao/Dropbox/code/summer/xyzt/backend/xyzt/xyzt/spiders/spider.py",
 		"/tmp/Chrome/NewsSpectator/wikipedia.log",
-		"/tmp/Chrome/wiki.py",
-		"/home/larryxiao/Dropbox/code/summer/xyzt/backend/xyzt/scrapy.cfg",
-		"/home/larryxiao/Dropbox/code/summer/xyzt/backend/xyzt/xyzt/items.py",
-		"/tmp/Chrome/NewsSpectator/Server1/WebContent/js/NewsLoader.js"
+		"/tmp/Chrome/wiki.py"
 	],
 	"find":
 	{
@@ -610,6 +642,29 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"forwardpropagation",
+			"temp_theta1",
+			"numgrad",
+			"nn_params",
+			"-1.3715e-04",
+			"1.5325e-04",
+			"-1.6656e-04",
+			"5.0458e-02",
+			"1.0000e+00",
+			"1",
+			"9.7401e-02",
+			"-8.3601e-03",
+			"7.6281e-03",
+			"5.7574e-02",
+			"1.6457e-01",
+			"1.6409e-01",
+			"1.0000e+00",
+			"1.4957e-01",
+			"disp",
+			"Theta1_grad",
+			"1",
+			"Theta1_grad",
+			"a1",
 			"write",
 			"week",
 			"ctrl+t",
@@ -714,30 +769,7 @@
 			"render",
 			"_filevalidating",
 			"GetValidatingFile",
-			"_MoveHttpFile",
-			"PhpUploader_GetFileName",
-			"_MoveHttpFile",
-			"PhpUploader_Move",
-			"From",
-			"PhpUploader_GetFileName",
-			"MoveHttpFile",
-			"MoveHttpFile Array :",
-			"_MoveHttpFile Array :",
-			"start addon upload",
-			"rename",
-			"render",
-			"_ValidateFile",
-			"$filename",
-			"filename",
-			"filename	",
-			"filename",
-			"iconv",
-			"PhpUploader(",
-			"PhpUploader",
-			"PhpUploader_FSEncoding",
-			"not exist",
-			"render",
-			"class"
+			"_MoveHttpFile"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -807,7 +839,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -815,15 +847,15 @@
 					"file": "mlclass-ex4/ex4.m",
 					"settings":
 					{
-						"buffer_size": 8073,
+						"buffer_size": 8075,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								513,
-								513
+								0,
+								0
 							]
 						],
 						"settings":
@@ -833,7 +865,6 @@
 							"encoding_helper_encoding": "UTF-8",
 							"encoding_helper_encoding_sublime": "UTF-8",
 							"function_name_status_row": 0,
-							"is_preview": true,
 							"origin_encoding": "ASCII",
 							"syntax": "Packages/Matlab/Matlab.tmLanguage",
 							"tab_size": 2,
@@ -850,15 +881,15 @@
 					"file": "mlclass-ex4/nnCostFunction.m",
 					"settings":
 					{
-						"buffer_size": 5593,
+						"buffer_size": 7440,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3850,
-								3850
+								5206,
+								5206
 							]
 						],
 						"settings":
@@ -867,44 +898,47 @@
 							"encoding_helper_confidence": 1.0,
 							"encoding_helper_encoding": "UTF-8",
 							"encoding_helper_encoding_sublime": "UTF-8",
-							"function_name_status_row": 94,
+							"function_name_status_row": 132,
 							"origin_encoding": "ASCII",
 							"syntax": "Packages/Matlab/Matlab.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1229.0,
+						"translation.y": 2494.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "mlclass-ex4/randInitializeWeights.m",
+					"file": "studynote.md",
 					"settings":
 					{
-						"buffer_size": 974,
+						"buffer_size": 3482,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								892,
-								892
+								99,
+								99
 							]
 						],
 						"settings":
 						{
-							"c_time": "cdatetime\ndatetime\np0\n(S'\\x07\\xdd\\x0b\\x19\\n5\\t\\x00\\x00\\x00'\np1\ntp2\nRp3\n.",
-							"encoding_helper_confidence": 1.0,
+							"c_time": "cdatetime\ndatetime\np0\n(S'\\x07\\xdd\\x0b\\x19\\x07.\\x02\\x00\\x00\\x00'\np1\ntp2\nRp3\n.",
+							"encoding_helper_confidence": 0.99,
 							"encoding_helper_encoding": "UTF-8",
 							"encoding_helper_encoding_sublime": "UTF-8",
-							"function_name_status_row": 0,
-							"is_preview": true,
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/Matlab/Matlab.tmLanguage"
+							"function_name_status_row": 3,
+							"origin_encoding": "UTF-8",
+							"parser": "markdown",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 4,
+							"target": "disk",
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -914,30 +948,30 @@
 				},
 				{
 					"buffer": 3,
-					"file": "mlclass-ex3/predict.m",
 					"settings":
 					{
-						"buffer_size": 1285,
+						"buffer_size": 872,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								119,
+								119
 							]
 						],
 						"settings":
 						{
-							"c_time": "cdatetime\ndatetime\np0\n(S'\\x07\\xdd\\x0b\\x19\\x07.\\x03\\x00\\x00\\x00'\np1\ntp2\nRp3\n.",
-							"encoding_helper_confidence": 1.0,
-							"encoding_helper_encoding": "UTF-8",
+							"draw_white_space": "none",
 							"encoding_helper_encoding_sublime": "UTF-8",
-							"function_name_status_row": 0,
-							"is_preview": true,
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/Matlab/Matlab.tmLanguage"
+							"function_name_status_row": 5,
+							"git_repo": "/media/EOS_DIGITAL/Machine Learning",
+							"git_status": true,
+							"git_view": "status",
+							"syntax": "Packages/SublimeGit/syntax/SublimeGit Status.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -947,33 +981,66 @@
 				},
 				{
 					"buffer": 4,
-					"file": "mlclass-ex3/lrCostFunction.m",
+					"file": "mlclass-ex4/checkNNGradients.m",
 					"settings":
 					{
-						"buffer_size": 1937,
+						"buffer_size": 2740,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1360,
+								1360
 							]
 						],
 						"settings":
 						{
-							"c_time": "cdatetime\ndatetime\np0\n(S'\\x07\\xdd\\x0b\\x19\\x07.\\x03\\x00\\x00\\x00'\np1\ntp2\nRp3\n.",
+							"c_time": "cdatetime\ndatetime\np0\n(S'\\x07\\xdd\\x0b\\x19\\n5\\x08\\x00\\x00\\x00'\np1\ntp2\nRp3\n.",
 							"encoding_helper_confidence": 1.0,
 							"encoding_helper_encoding": "UTF-8",
 							"encoding_helper_encoding_sublime": "UTF-8",
-							"function_name_status_row": 0,
-							"is_preview": true,
+							"function_name_status_row": 40,
 							"origin_encoding": "ASCII",
 							"syntax": "Packages/Matlab/Matlab.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 594.0,
+						"translation.y": 714.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "mlclass-ex4/debug.txt",
+					"settings":
+					{
+						"buffer_size": 4030,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"auto_name": "restore the matrix, must be something wrong",
+							"c_time": "cdatetime\ndatetime\np0\n(S'\\x07\\xdd\\x0c\\x02\\n!\\x19\\x00\\x00\\x00'\np1\ntp2\nRp3\n.",
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"function_name_status_row": 0,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1030,6 +1097,14 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"ch",
+				"mlclass-ex4/checkNNGradients.m"
+			],
+			[
+				"ran",
+				"mlclass-ex4/randInitializeWeights.m"
+			],
 			[
 				"sigr",
 				"mlclass-ex4/sigmoidGradient.m"
@@ -1140,7 +1215,7 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 204.0,
 	"status_bar_visible": true
 }
