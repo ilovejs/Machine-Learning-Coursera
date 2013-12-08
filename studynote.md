@@ -1,5 +1,8 @@
 #   Machine Learning
 ### Week6   X. Advice for Applying Machine Learning 
+*   video lecture
+    *   X. Advice for Applying Machine Learning (Week 6)
+    *   XI. Machine Learning System Design (Week 6)
 *   programming exercise
     *   3.1 Learning Polynomial Regression
         *
@@ -10,6 +13,26 @@ polynomial terms have simply turned into features that we can use for linear
 regression. We are using the same cost function and gradient that you wrote
 for the earlier part of this exercise.
         </pre>
+    *
+    <pre>
+        implementing and mastering the process
+            Regularized Linear Regression CostFunction
+            Regularized Linear Regression Gradient
+            Learning Curve
+                train error, cross validation on number of training examples
+            Polynomial Feature Mapping
+            Cross Validation Curve
+                train error, cross validation on lambda
+
+        the instruction contain good explaination of why, how and tips
+
+        % An important concept in machine learning is the bias-variance tradeoff. Mod-
+        % els with high bias are not complex enough for the data and tend to underfit,
+        % while models with high variance overfit to the training data.
+
+        % Recall that a learning curve plots training and cross validation error 
+        % as a function of training set size.
+    </pre>
 *   review question
     *   Question 1
         *   high bias   <img src="/tmp/Chrome/10.1-b.png">
