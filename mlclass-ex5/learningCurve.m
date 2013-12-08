@@ -53,11 +53,21 @@ error_val   = zeros(m, 1);
 
 % ---------------------- Sample Solution ----------------------
 
+% An important concept in machine learning is the bias-variance tradeoff. Mod-
+% els with high bias are not complex enough for the data and tend to underfit,
+% while models with high variance overfit to the training data.
 
+% Recall that a learning curve plots training and cross validation error 
+% as a function of training set size.
 
-
-
-
+      for i = 1:m
+          % Compute train/cross validation errors using training examples 
+          tempX = X(1:i, :);
+          tempY = y(1:i);
+          theta = trainLinearReg(tempX, tempY, lambda);
+          error_train(i) = linearRegCostFunction(tempX,tempY,theta,0);
+          error_val(i) = linearRegCostFunction(Xval,yval,theta,0);
+      end
 
 % -------------------------------------------------------------
 

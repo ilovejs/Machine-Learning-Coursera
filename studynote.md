@@ -1,4 +1,26 @@
 #   Machine Learning
+### Week6   X. Advice for Applying Machine Learning 
+*   programming exercise
+    *   3.1 Learning Polynomial Regression
+        *
+        <pre>
+            Keep in mind that even though we have polynomial terms in our feature
+vector, we are still solving a linear regression optimization problem. The
+polynomial terms have simply turned into features that we can use for linear
+regression. We are using the same cost function and gradient that you wrote
+for the earlier part of this exercise.
+        </pre>
+*   review question
+    *   Question 1
+        *   high bias   <img src="/tmp/Chrome/10.1-b.png">
+        *   high variance   <img src="/tmp/Chrome/10.1-c.png">
+    *   Question 4
+        *   Suppose you are training a regularized linear regression model. The recommended way to choose what value of regularization parameter λ to use is to choose the value of λ which gives the lowest test set error.    (You should not use the test set to choose the regularization parameter, as you will then have an artificially low value for test error and it will not give a good estimate of generalization error.)
+        *   It is okay to use data from the test set to choose the regularization parameter λ, but not the model parameters (θ).    (   You should not use test set data in choosing the regularization parameter, as it means the test error will not be a good estimate of generalization error.)
+        *   <strong >Suppose you are training a regularized linear regression model. The recommended way to choose what value of regularization parameter λ to use is to choose the value of λ which gives the lowest cross validation error.  (The cross validation lets us find the "just right" setting of the regularization parameter given the fixed model parameters learned from the training set.)</strong>
+    *   Question 5
+        *    If the training and test errors are about the same, adding more features will not help improve the results.    (If the two errors are the same, then the model has high bias, so adding more features will be helpful.)
+
 ### Week5   Neural Networks: Learning
 * review
     *   Neural Networks <strong>intuition</strong>
