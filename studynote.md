@@ -1,4 +1,27 @@
 #   Machine Learning
+### Week7   XII. Support Vector Machines
+*   lecture
+    *   logistic regression -> SVM
+        *   kernel [linear kernel] [Gaussian kernel] [string kernel] [chi-square kernel]
+            *   [Kernel Functions for Machine Learning Applications | ~/cesarsouza/blog](http://crsouza.blogspot.com/2010/03/kernel-functions-for-machine-learning.html)
+        *   bias / variance analysis for SVM, C, sigma
+            *   [Abductive Intelligence — Managing Bias - Variance Tradeoff in Machine Learning](http://blog.stephenpurpura.com/post/13052575854/managing-bias-variance-tradeoff-in-machine-learning)
+    *   comparison and conditions of applyding 3 learning algorithms so far
+*   programming exercise
+    *   SVM
+        *   Gaussian kernel
+        *   choose best C and σ values.
+    *   email spam, process text
+        *   preprocessing
+        *   vocabulary list, feature vector, top predictors for spam (weight)
+    *   underlying
+        *   function [model] = svmTrain(X, Y, C, kernelFunction, tol, max_passes)
+        *   function pred = svmPredict(model, X)
+*   review question
+    *   The SVM without any kernel (ie, the linear kernel) predicts output based only on θTx, so it gives a linear / straight-line decision boundary, just as logistic regression does.
+    *   A neural network with many hidden units is a more complex (higher variance) model than logistic regression, so it is less likely to underfit the data.
+    *   If the data are linearly separable, an SVM using a linear kernel will return the same parameters θ regardless of the chosen value of C (i.e., the resulting value of θ does not depend on C).
+        *   A linearly separable dataset can usually be separated by many different lines. Varying the parameter C will cause the SVM's decision boundary to vary among these possibilities. For example, for a very large value of C, it might learn larger values of θ in order to increase the margin on certain examples.
 ### Week6   X. Advice for Applying Machine Learning 
 *   video lecture
     *   X. Advice for Applying Machine Learning (Week 6)
