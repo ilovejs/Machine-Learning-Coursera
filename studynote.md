@@ -1,4 +1,18 @@
 #   Machine Learning
+<pre>
+Notice:
+    my school semester is nearing end, and projects and final exams are coming
+    so for week 8 and 9, I'm quickly skimming course material (lecture slides without watching videos) 
+    it turned out to be quite not bad, it require more thinking (filling in the gap myself, otherwise in the video, ideas are well explained)
+    and I want to get a good score, so I still complete the review questions and programming assignments
+    p.s. for week 8, I stopped before (140 - 5 - Choosing the Number of Principal Components (11 min).mp4)
+</pre>
+### XV. Anomaly Detection (Week 9)
+### XVI. Recommender Systems (Week 9)
+### Week8   XIII. Clustering (Week 8)
+### Week8   XIV. Dimensionality Reduction (Week 8)
+*   the meaning of eigenvectors, eigenvalue?
+    *   programming exercise 2.2 Implementing PCA
 ### Week7   XII. Support Vector Machines
 *   lecture
     *   logistic regression -> SVM

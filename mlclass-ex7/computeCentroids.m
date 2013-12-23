@@ -26,15 +26,30 @@ centroids = zeros(K, n);
 % Note: You can use a for-loop over the centroids to compute this.
 %
 
-
-
-
-
-
-
+for i = 1:K
+    indices = find (idx == i);
+    Ck = size(indices);
+    for j = 1:Ck(1)
+        % centroids(i,:)
+        % X(idx(j),:)
+        centroids(i,:) += X(indices(j),:);
+    end
+    centroids(i, :) = centroids(i, :) ./ Ck(1);
+end
 
 % =============================================================
 
 
 end
 
+% correct value
+    % Ck(1)
+
+% correct index
+    % indices(j)
+
+% [Octave - General - Getting the index of a vector element with a given value?](http://octave.1599824.n4.nabble.com/Getting-the-index-of-a-vector-element-with-a-given-value-td1631846.html)
+    % use `indices = find (vec == value)' 
+
+% reference ...
+    % [GNU Octave - Finding Elements and Checking Conditions](http://www.network-theory.co.uk/docs/octave3/octave_182.html)

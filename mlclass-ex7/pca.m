@@ -20,12 +20,11 @@ S = zeros(n);
 %       number of examples).
 %
 
-
-
-
-
-
+covarianceMatrix = X'*X/m;           % sigma
+[U, S, V] = svd(covarianceMatrix);
 
 % =========================================================================
 
 end
+
+% the meaning of eigenvectors, eigenvalue?
