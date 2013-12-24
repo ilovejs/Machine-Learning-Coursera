@@ -40,23 +40,62 @@ Theta_grad = zeros(size(Theta));
 %                     partial derivatives w.r.t. to each element of Theta
 %
 
+% 2.2.1 Collaborative filtering cost function
+% 15 min
+    % note the operation of filtering
+    % (or you should read implementation note)
 
+    % R
+    % (X * Theta' - Y) .* (R == 1)
+    % (X * Theta' - Y)
+    % (X * Theta' - Y) & (R == 1)
 
+J = sum(
+        sum( 
+            (
+                (X * Theta' - Y) .* (R == 1)
+            ) .^2
+            )
+        ) / 2;
 
+% 2.2.2 Collaborative filtering gradient
+% 20min for loop
+% 19min vectorized
 
+% simply folow the model before -> mlclass-ex2/costFunctionReg.m
+% apply filter
+% (check dimension)
+X_grad = (X * Theta' - Y) .* (R == 1) * Theta;
+Theta_grad = ( (X * Theta' - Y) .* (R == 1) )' * X;
 
+% not working for-loop version
+    % for i = 1:num_movies
+    %     idx = find(R(i, :)==1);
+    %     Thetatemp = Theta(idx, :);
+    %     Ytemp = Y(i, idx);
+    %     X_grad (i, :) = (X(i, :) * Thetatemp' - Ytemp ) * Thetatemp;
+    % end
 
+    % for i = 1:num_users
+    %     idx = find(R(:, i)==1);
+    %     Xtemp = Theta(:, idx);
+    %     Ytemp = Y(idx, i);
+    %     Theta_grad (i, :) = (Xtemp * Theta(:, i)' - Ytemp ) * Xtemp;
+    % end
 
+% 2.2.3 Regularized cost function
 
+regularizedCost = (sum(sum(Theta .^ 2)) + sum(sum(X .^ 2)))*lambda/2;
+J += regularizedCost;
 
+% 2.2.4 Regularized gradient
 
-
-
-
-
+X_grad = X_grad + X .* lambda;
+Theta_grad = Theta_grad + Theta .* lambda;
 
 % =============================================================
 
 grad = [X_grad(:); Theta_grad(:)];
 
 end
+

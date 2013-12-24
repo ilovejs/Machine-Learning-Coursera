@@ -7,8 +7,23 @@ Notice:
     and I want to get a good score, so I still complete the review questions and programming assignments
     p.s. for week 8, I stopped before (140 - 5 - Choosing the Number of Principal Components (11 min).mp4)
 </pre>
+##  week 9
+*   summary
+    *   [30 min] it's much faster to get 70% of the ideas, learning from lecture nodes (annotated)
+        *   might miss out some insights, proves, practical experience
+        *   but basically all are there
 ### XV. Anomaly Detection (Week 9)
+*   Gaussian distribution
+*   developing and evaluating an anomaly detection system
+*   anomaly detection vs. supervised learning
+*   features
+    *   non-gaussian feature
+*   error analysis
+*   Multivariate Gaussian distribution
 ### XVI. Recommender Systems (Week 9)
+*   Collaborative filtering
+*   Vectorization: Low rank matrix factorization
+*   Implementation detail: Mean normalization
 ### Week8   XIII. Clustering (Week 8)
 ### Week8   XIV. Dimensionality Reduction (Week 8)
 *   the meaning of eigenvectors, eigenvalue?
