@@ -7,11 +7,22 @@ Notice:
     and I want to get a good score, so I still complete the review questions and programming assignments
     p.s. for week 8, I stopped before (140 - 5 - Choosing the Number of Principal Components (11 min).mp4)
 </pre>
+##  week 10
+*   XVII. Large Scale Machine Learning
+    *   One of the advantages of stochastic gradient descent is that it can start progress in improving the parameters θ after looking at just a single training example; in contrast, batch gradient descent needs to take a pass over the entire training set before it starts to make progress in improving the parameters' values. 
+    *   Stochastic gradient descent still runs in series, one example at a time. 
+    *   Online learning algorithms throw away old examples, incorporating them only once when they are first seen. Since online learning algorithms do not save old examples, they can be very efficent in terms of computer memory and disk space. 
+    *   Since stochastic gradient descent processes one example at a time and updates the parameter values after each, it cannot be easily parallelized. 
+*   XVIII. Application Example: Photo OCR
+    *   A mirrored example is different from the original but equally likely to occur, so mirroring is a good way to generate new data. 
+    *   Since the biggest improvement comes from character recognition ground truth, we would like to improve the performance of that system. It the character recognition system has high variance, additional data will improve its performance. 
+    *   A ceiling analysis works with different components of a pipeline under a fixed algorithm setup. 
 ##  week 9
 *   summary
     *   [30 min] it's much faster to get 70% of the ideas, learning from lecture nodes (annotated)
         *   might miss out some insights, proves, practical experience
         *   but basically all are there
+    *   [100 min] programming exercise
 ### XV. Anomaly Detection (Week 9)
 *   Gaussian distribution
 *   developing and evaluating an anomaly detection system
